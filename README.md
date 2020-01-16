@@ -8,4 +8,3 @@ Her modelimizin amacı hatayı minimize etmektir. Lakin olaylar burda da bitmiyo
 
 Yaptığımız örneklerde bir soruna iki farklı yaklaşım ele aldık. KNN algoritması ile Karar ağacı algoritmasının başarı oranlarını test ettik. Verimiz ise bir elmanın iki özelliği(sayısal) ve  rengi(sayısal; 1:kırmızı,2:yeşil,3:sarı). En iyi  sınıflama-gruplama işlemini kimin yaptığı ise uygulamalı olarak anlatılmıştır.
 
-Yararlı olması dileği ile :)
